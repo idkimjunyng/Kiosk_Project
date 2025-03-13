@@ -31,18 +31,6 @@ public class MenuItem {
         return this.description;
     }
 
-    public void setIndex(int index) {
-        this.index = index;
-    }
-    public void setName(String name) {
-        this.name = name;
-    }
-    public void setPrice(double price) {
-        this.price = price;
-    }
-    public void setDescription(String description) {
-        this.description = description;
-    }
 
     public static void main(String[] args) {
 
