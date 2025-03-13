@@ -35,15 +35,6 @@ public class Menu {
     }
 
 
-    public void setTitle(String title) {
-        this.title = title;
-    }
-    public void setIndex(int index) {
-        this.index = index;
-    }
-    public void setName(String name) {
-        this.name = name;
-    }
     public void setCategoryName(String categoryName) {
         this.categoryName = categoryName;
     }
